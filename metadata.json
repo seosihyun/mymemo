@@ -1,0 +1,6 @@
+{
+  "name": "MyMemo",
+  "description": "A simple one-person memo app with tags, search, and local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
